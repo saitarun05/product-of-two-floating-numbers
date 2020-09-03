@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    float a;
+    float b;
+    float mul;
+    cout<<"Enter the value of a: ";
+    cin>>a;
+    cout<<"Enter the value of b: ";
+    cin>>b;
+    mul=a*b;
+    cout<<"The product of two numbers are:";
+    cout<<mul;
+    return 0;
+    
+}
